@@ -104,9 +104,11 @@ p {
 .project-description-marvel {
   padding: 107px 60px;
 }
+
 .project-description-shecodes {
   padding: 84px 60px;
 }
+
 @media (max-width: 900px) {
   .header {
     font-size: 44px;
